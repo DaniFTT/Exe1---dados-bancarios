@@ -15,9 +15,9 @@ public class Main {
 		Banco banco = new Banco();
 		
 		System.out.print("Enter account number: ");
-        int accountNumber = sc.nextInt();
+                int accountNumber = sc.nextInt();
         
-        sc.nextLine();
+                sc.nextLine();
 		System.out.print("Enter account holder: ");
 		String name = sc.nextLine();
 		
